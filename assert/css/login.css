@@ -1,0 +1,18 @@
+body {
+  background-image: url(/images/background.jpg);
+  background-repeat: no-repeat;
+  background-size:auto; 
+}
+
+#login {
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,.13);
+  width: 320px;
+  padding: 3%;
+  margin: auto;
+  margin-top: 5%;
+}
+
+#errorMessage {
+  color: red; 
+}
